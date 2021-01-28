@@ -1,0 +1,6 @@
+include ':result'
+include ':result-common'
+include ':rxresult2'
+include ':rxresult3'
+include ':simple'
+rootProject.name = "rxresult"
